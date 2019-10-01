@@ -292,6 +292,11 @@
   resolved "https://registry.yarnpkg.com/@discordjs/collection/-/collection-0.1.2.tgz#f3d88dfc0ca62bb4cbf24f80202cdfdfccf9fa4d"
   integrity sha512-N4lTTbLYb4aiOVqi2xQgkNrzWouCkT1QisAVg/gi1h4rZdw8d5JEuIdqISkG+Zl8BTmyxEb8zXmfsORLGoeDig==
 
+"@klasa/utils@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@klasa/utils/-/utils-0.0.1.tgz#af20aa4ea24fdd83c41e9afb07f829194dea6363"
+  integrity sha512-UOGHPXnbitN/fHIGODZYv8IVlpojVmMMyRYLlanN41QP+IC9oZfqihT41cBbaFtMbqF0gcw6/5mr2P6NpCV8Mg==
+
 "@nodelib/fs.scandir@2.1.2":
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.2.tgz#1f981cd5b83e85cfdeb386fc693d4baab392fa54"

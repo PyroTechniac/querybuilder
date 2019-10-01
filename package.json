@@ -17,6 +17,9 @@
   "engines": {
     "node": ">=10.1.0"
   },
+  "dependencies": {
+    "@klasa/utils": "^0.0.1"
+  },
   "devDependencies": {
     "@types/node": "^12.7.3",
     "@typescript-eslint/eslint-plugin": "^2.0.0",

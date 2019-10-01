@@ -1,4 +1,4 @@
-import { isObject } from './util';
+import { isObject } from '@klasa/utils';
 import { QueryBuilderEntryOptions, QueryBuilderDatatype } from '../QueryBuilder';
 
 export const DATATYPES: [string, QueryBuilderDatatype][] = [

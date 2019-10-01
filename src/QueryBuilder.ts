@@ -1,5 +1,5 @@
 import { SchemaEntry } from 'klasa';
-import { mergeDefault, deepClone } from './lib/util';
+import { mergeDefault, deepClone } from '@klasa/utils';
 import { OPTIONS, DATATYPES } from './lib/constants';
 
 export class QueryBuilder extends Map<string, Required<QueryBuilderDatatype>> {
