@@ -1954,7 +1954,8 @@ keyv@^3.0.0:
 
 klasa@dirigeants/klasa#settings:
   version "0.5.0-dev"
-  resolved "https://codeload.github.com/dirigeants/klasa/tar.gz/a7ef1a9d4fc2a1ca7bef85976795e65db2281009"
+  uid "305aa0d74fb5e85eff2da93c99142e177c3cebab"
+  resolved "https://codeload.github.com/dirigeants/klasa/tar.gz/305aa0d74fb5e85eff2da93c99142e177c3cebab"
   dependencies:
     fs-nextra "^0.4.5"
 
