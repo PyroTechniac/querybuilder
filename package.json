@@ -21,7 +21,7 @@
     "@klasa/utils": "^0.0.4"
   },
   "devDependencies": {
-    "@types/node": "^13.1.4",
+    "@types/node": "^13.1.5",
     "@typescript-eslint/eslint-plugin": "^2.15.0",
     "@typescript-eslint/parser": "^2.15.0",
     "ava": "^2.4.0",
